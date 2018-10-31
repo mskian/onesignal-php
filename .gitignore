@@ -1,0 +1,8 @@
+# Dependency directory
+.env
+vendor
+composer.lock
+config.php
+
+# Editors
+.vscode/*

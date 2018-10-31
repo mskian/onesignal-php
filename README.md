@@ -2,6 +2,10 @@
 
 <p>Send OneSignal Push Notification via PHP cURL</p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/mskian/onesignal-php/master/screenshot.png">
+</p>
+
 - PHP cuRL
 - OneSignal API
 - Bootstrap4

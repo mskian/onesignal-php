@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/mskian/onesignal-php/master/screenshot.png">
 </p>
 
-- PHP cuRL
+- PHP cURL
 - OneSignal API
 - Bootstrap4
 

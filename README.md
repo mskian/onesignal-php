@@ -18,7 +18,7 @@
 git clone https://github.com/mskian/onesignal-php
 ```
 
-- Install Composer dependency packages
+- Install dependency packages
 
 ```
 cd onesignal-php
